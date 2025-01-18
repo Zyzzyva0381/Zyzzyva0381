@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-I'm working on this profile. Maybe I will make the most of it once the exams are over? 
+I'm **Windy**, student at **School of Physics, Nanjing University**. 
 
-- 🔭 I’m currently working on the finals
+I'm working on this profile. Maybe I will make the most of it once I feel like it? 
+
+- 🎵 I'm listening to VOCALOID/UTAU music. 
 - 🌱 I’m currently learning Reinforcement Learning
-- 🤔 I’m looking for help with how I can learn more about CS
-- 💬 Ask me about anything you are interested in! 
+- 🤔 I'm thinking about which emulation technique I should use
 - 📫 How to reach me: E-mail me at xingboni@hotmail.com
