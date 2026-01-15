@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Windy**, student at **School of Physics, Nanjing University**. 
+I'm **Windy**. 
 
 I'm working on this profile. 
 
