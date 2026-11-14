@@ -1,12 +1,30 @@
-## Hi there 👋
+# Hi, I'm Windy 👋
 
-I'm **Windy**. 
+I'm a student at **Nanjing University**, interested in **speech and audio processing, efficient machine learning, and systems engineering**.
 
-I'm currently studying machine learning, high-performance computing, and optimized systems. 
+I enjoy exploring the space between mathematical ideas and practical implementations — especially when computational resources, latency, and hardware constraints make things interesting.
 
-- 👩‍💻 **I'm currently working on:** Lightweight machine learning model architectures, dynamic routing mechanisms, and speech enhancement using PyTorch and Triton. I am also developing a custom AI personality agent named Renka.
-- 🌱 **I’m currently exploring:** Formal verification and functional programming with Lean, Haskell, and Rust.
-- ⚙️ **I regularly tinker with:** Remote Linux server management, GPU architectures, and deploying local LLMs.
-- 🎮 **In my free time:** I manage server environments for a Minecraft community, play chess on a regular basis, and study music theory and digital composition.
-- 🎵 **I'm listening to:** Baroque music. 
-- 📫 **How to reach me:** E-mail me at xingboni@hotmail.com
+### 🔬 Research Interests
+
+- **Speech & Audio AI** — Speech enhancement, separation, neural audio codecs, and streaming speech recognition.
+- **Efficient Machine Learning** — Model compression, quantization, low-complexity architectures, and resource-constrained inference.
+- **Generative Modeling** — Diffusion models, flow matching, and efficient numerical solvers.
+- **Signal Processing** — Classical DSP, time-frequency analysis, adaptive filtering, and their connections to modern learning methods.
+- **Learning Foundations** — Discrete optimization, integer-native computation, and alternative perspectives on machine learning.
+
+### 🛠️ Things I'm Exploring
+
+- Building real-time speech systems on embedded and GPU platforms.
+- Exploring multi-speaker ASR and robotic auditory perception.
+- Experimenting with LLM-powered agents and interactive environments.
+
+### 🌱 A Little More About Me
+
+- 🎹 I play piano and enjoy exploring music theory and digital audio.
+- 🧠 I like connecting ideas across mathematics, computer science, and engineering.
+- 🔍 I'm drawn to questions that challenge familiar assumptions.
+- ⚡ I appreciate elegant theories, efficient implementations, and the occasional clever hack.
+
+---
+
+*Curious about how things work, why they work, and whether there's a better way to build them.*
